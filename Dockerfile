@@ -1,5 +1,5 @@
 FROM alpine:latest
 
-RUN echo "test-V1"
+RUN echo "test-V2"
 
-CMD echo "test-V1"
+CMD echo "test-V2"
